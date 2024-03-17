@@ -11,7 +11,7 @@ Antes de começar, certifique-se de ter o Docker e o Docker Compose instalados n
 1. Clone este repositório para o seu ambiente local:
 
     ```bash
-    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+    git clone https://github.com/vmartinsz/PostgresDocker.git
     ```
 
 2. Navegue até o diretório clonado:
